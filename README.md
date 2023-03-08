@@ -1,5 +1,5 @@
 # Uber2.0
-A clone of Uber 2.0
+Just a clone of Uber 2.0
 - React Native
 - React
 - Tailwind CSS
