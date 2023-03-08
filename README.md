@@ -4,7 +4,7 @@ Just a clone of Uber 2.0
 - React
 - Tailwind CSS
 - Redux
-- React Native Elementfa-spin
+- React Native Elements
 - React Navigation
 - React Native Maps
 - API
