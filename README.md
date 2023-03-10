@@ -7,10 +7,12 @@
 - React Native Elements
 - React Navigation
 - React Native Maps
-- API
+- Google API Directions & Matix distance
 
 ### Build Development Server
 ```sh 
 npx expo start
 ```
+
+- Stopped due to paid Google Billing API calls
 #### [ Developer : Blesslin Jerish R ]
