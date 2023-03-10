@@ -10,5 +10,7 @@
 - API
 
 ### Build Development Server
-```npx expo start```
+```sh 
+npx expo start
+```
 #### [ Developer : Blesslin Jerish R ]
