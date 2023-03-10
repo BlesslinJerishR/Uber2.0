@@ -3,6 +3,7 @@ import React from 'react'
 import tw from 'tailwind-react-native-classnames';
 import { Icon } from '@rneui/base';
 import { useNavigation } from '@react-navigation/native';
+import Login from './Login';
 
 const data = [
     {
@@ -29,7 +30,7 @@ const navigation = useNavigation();
         renderItem={({item}) => (
             <TouchableOpacity 
             onPress={() => navigation.navigate(item.screen)}
-            style={tw`p-2 pl-6 pb-8 pt-4 bg-gray-200 m-2 w-40`}>
+            style={[tw`p-2 pl-6 pb-8 pt-4 bg-gray-200 m-2 w-40`,{left : 750}]}>
                 <View>
                     <Image
                     style={{width:120, height: 120, resizeMode: "contain"}}
