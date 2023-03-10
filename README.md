@@ -8,4 +8,7 @@
 - React Navigation
 - React Native Maps
 - API
+
+### Build Development Server
+```npx expo start```
 #### [ Developer : Blesslin Jerish R ]
