@@ -12,7 +12,7 @@
 - React Native Elements
 - React Navigation
 - React Native Maps
-- Google API Directions & Matix distance
+- Google API Directions & Matrix distance
 
 ### Build Development Server
 ```sh 
