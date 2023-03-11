@@ -5,9 +5,10 @@ import tw from 'tailwind-react-native-classnames';
 import NavOptions from '../components/NavOptions';
 import Login from '../components/Login';
 import Footer from '../components/Footer';
-
+import DriveAndDrop from '../components/DriveAndDrop';
 const uberLogo = "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png";
 const carMan = "https://media.istockphoto.com/id/1154373349/photo/good-looking-man-entering-ride-sharing-car.jpg?s=612x612&w=0&k=20&c=buhwQsbXFEtbonACUafN2zm6W3rWzYdXVDOtxef3B54="
+
 const HomeScreen = () => {
   return (
     <SafeAreaView style={tw`bg-white h-full`}>
@@ -43,6 +44,7 @@ source={{
 
         <NavOptions/>
         <Login/>
+        <DriveAndDrop/>
         <Footer/>
       </View>
     </SafeAreaView>
