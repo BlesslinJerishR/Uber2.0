@@ -4,7 +4,7 @@ import tw from 'tailwind-react-native-classnames';
 
 const gps ="https://img.icons8.com/ios-filled/100/null/navigation.png"
 const rightArrow = "https://img.icons8.com/ios-glyphs/90/null/circled-right.png"
-
+const line = "https://img.icons8.com/wired/64/null/vertical-line.png"
 
 const DriveAndDrop = () => {
   return (
@@ -57,6 +57,20 @@ const DriveAndDrop = () => {
 
         source={{
             uri: rightArrow,
+        }}     
+      />
+      <Image
+        style={[tw`absolute`,{
+            width: 40,
+            height: 40,
+            resizeMode: "contain",
+            marginBottom: 20,
+            left: 10,
+            top: 95,
+        }]}
+
+        source={{
+            uri: line,
         }}     
       />
       <TextInput
