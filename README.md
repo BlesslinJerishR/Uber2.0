@@ -6,6 +6,7 @@
 ![UberDemo](UberDemo2.png)
 
 ## Just a clone of Uber 2.0
+### Tools & Technologies
 - React Native
 - React
 - Tailwind CSS
