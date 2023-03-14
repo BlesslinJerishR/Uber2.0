@@ -34,7 +34,8 @@
     "tailwind-react-native-classnames": "^1.5.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "webpack-cli": "^5.0.1"
   },
   "private": true
 }
