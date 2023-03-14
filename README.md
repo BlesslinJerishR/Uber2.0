@@ -20,6 +20,13 @@
 ```sh 
 npx expo start
 ```
-
+### Web Hosting Build
+```sh
+npx expo export:web
+```
+### Netlify Publish Directory
+```sh
+Uber/web-build/
+```
 - Stopped due to paid Google Billing API calls
 #### [ Developer : Blesslin Jerish R ]
