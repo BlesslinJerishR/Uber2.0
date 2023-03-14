@@ -14,6 +14,8 @@
 - React Native Elements
 - React Navigation
 - React Native Maps
+- React Native Safe Area Provider
+- React Native Navigation
 - Google API Directions & Matrix distance
 
 ### Build Development Server
